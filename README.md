@@ -48,4 +48,4 @@ I am extremely passionate about Machine Learning and Artificial Intelligence. I 
 ### ⚡ Fun fact
 - I am always eager to learn new things and love to stay updated with the latest trends in technology.
 
-- [![Karan Khanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkviper1)](https://github.com/anuraghazra/github-readme-stats)
+[![Karan Khanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkviper1)](https://github.com/anuraghazra/github-readme-stats)
