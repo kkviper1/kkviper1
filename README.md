@@ -39,11 +39,13 @@ I am extremely passionate about Machine Learning and Artificial Intelligence. I 
 - Machine Learning, AI, Data Analysis, Python, Django, SQL, Deep Learning, Java, ReactJS.
 
 ### 📫 How to reach me
-- [Email](mailto:your-email@example.com)
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [Email](mailto:karankhanna1499@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/karan-khanna-74191185)
 
 ### 😄 Pronouns
 - He/Him
 
 ### ⚡ Fun fact
 - I am always eager to learn new things and love to stay updated with the latest trends in technology.
+
+- [![Karan Khanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkviper1)](https://github.com/anuraghazra/github-readme-stats)
