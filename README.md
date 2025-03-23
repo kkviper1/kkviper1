@@ -46,6 +46,6 @@ I am extremely passionate about Machine Learning and Artificial Intelligence. I 
 - He/Him
 
 ### ⚡ Fun fact
-- I am always eager to learn new things and love to stay updated with the latest trends in technology.
+- I am a former Collegiate-level valorant esports player.
 
 [![Karan Khanna's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkviper1)](https://github.com/anuraghazra/github-readme-stats)
