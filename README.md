@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 Hi, My name is Karan Khanna. I am an AI Engineer at Timble Technologies Ltd. I am a post-graduate from George Brown College, in the course Applied AI Solutions Development. I also have a Bachelors of Technology in Computer Science Engineering from Amity University.
 
 My work experience includes:
-- 6 months at Timble Tech New Delhi
+- 1 year and 3 months at Timble Tech New Delhi
 - 1 year and 10 months as a Senior Analyst at Capgemini based in Mumbai
 - A 4 month internship at MN Squared Inc based in London, ON, Canada as an ML Engineer
 
