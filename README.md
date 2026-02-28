@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, My name is Karan Khanna. I am an AI Engineer at Timble Technologies Ltd. I am a post-graduate from George Brown College, in the course Applied AI Solutions Development. I also have a Bachelors of Technology in Computer Science Engineering from Amity University.
+Hi, My name is Karan Khanna. I am an AI Engineer at Sentient, an Ascend Company. I am a post-graduate from George Brown College, in the course Applied AI Solutions Development. I also have a Bachelors of Technology in Computer Science Engineering from Amity University.
 
 My work experience includes:
-- 1 year and 3 months at Timble Tech New Delhi
+- Currently at Sentient, Hyderabad
+- 1 year and 6 months at Timble Tech New Delhi
 - 1 year and 10 months as a Senior Analyst at Capgemini based in Mumbai
 - A 4 month internship at MN Squared Inc based in London, ON, Canada as an ML Engineer
 
 I am extremely passionate about Machine Learning and Artificial Intelligence. I am always curious when it comes to new tech and research into ML and AI, and I always work hard to create the best projects that I am capable of creating.
 
 ### 🔭 I’m currently working on
-- AI and ML projects at Timble Technologies Ltd.
+- AI and ML projects at Sentient.
 
 ### 🌱 I’m currently learning
 - Advanced techniques in Machine Learning and AI.
@@ -36,7 +37,7 @@ I am extremely passionate about Machine Learning and Artificial Intelligence. I 
 - Implementing innovative solutions in AI.
 
 ### 💬 Ask me about
-- Machine Learning, AI, Data Analysis, Python, Django, SQL, Deep Learning, Java, ReactJS.
+- Machine Learning, AI, Data Analysis, Elixir, Phoenix, Python, Django, SQL, Deep Learning, Java, ReactJS.
 
 ### 📫 How to reach me
 - [Email](mailto:karankhanna1499@gmail.com)
